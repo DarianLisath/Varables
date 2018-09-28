@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536880940 source:c:\users\daria\onedrive\desktop\varables\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536880940 source:c:\users\daria\onedrive\desktop\codeblock works\varables\main.c
+	<stdio.h>
+	<stdlib.h>
+
